@@ -1,0 +1,355 @@
+/**
+Author : virajk
+Description : Cascading stylesheet for html documents
+**/
+
+
+g.selectAll(".bar")
+ .data(data)
+ .enter().append("rect")
+
+
+
+html,body {
+    height: 100% !important;
+}
+
+#body {
+    
+    height:100%;
+    width:100%;
+     
+ }
+
+#sidemenu ul {
+    
+    display: inline-block;
+    cursor:pointer;
+    
+}
+
+
+
+
+.nav-item a {
+    cursor: pointer;
+    
+}
+
+.nav-item a.active {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+#maincontent svg {
+    
+    margin: auto;
+    display:block;
+    
+}
+
+.wrapper {
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+}
+
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #fafafa;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.1em;
+    font-weight: 300;
+    line-height: 1.7em;
+    color: #999;
+}
+
+a, a:hover, a:focus {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+#sidemenu {
+    background: #343a40;
+    color: #fff;
+    transition: all 0.3s;
+}
+
+
+
+#sidemenu ul.components {
+    padding: 20px 0;
+   /* border-bottom: 1px solid #47748b; */
+    width: 100%
+}
+
+#sidemenu ul p {
+    color: #fff;
+    padding: 10px;
+}
+
+#sidemenu ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+}
+#sidemenu ul li a:hover {
+    color: #7386D5;
+    background: #fff;
+}
+
+#sidemenu ul li.active > a, a[aria-expanded="true"] {
+    color: #fff;
+    background: #6d7fcc;
+}
+
+#sidemenu.active {
+    margin-left: -250px;
+}
+
+
+#sidemenu {
+    
+    width: 15%;
+    float: left;
+    display: inline-block;
+    height: 768px;
+    
+}
+
+
+
+
+#maincontent {
+    
+    width : 85%;
+    float: right;
+    display: inline-block;
+   /* height: 100%; */
+    margin: 0px;
+    padding:0px;
+    
+}
+
+
+
+.plot_container {
+  position : relative;
+  top: 5%;
+  /*left : 20%; */
+  margin:auto;
+  border-style:double;
+  border-color:firebrick;
+  border-width: 5px;
+  border-radius: 12px;
+    
+    
+   height : 99%; 
+  width: 99%;
+  /*z-index: -1; */
+  /*margin-left:3.5%;*/
+   
+}
+.no-face {
+    height:100%;
+    display:none;
+    margin-top:4%;
+    margin-left:3%;
+    
+}
+
+.no-face div.paragraph {
+    width: 60%;
+}
+
+
+
+
+.bar {
+    display: inline-block;
+    background-color: #000;
+    margin-right:3px;
+    position: relative;
+    bottom : 3px;
+    margin-left: 4px;
+    cursor:pointer;
+    
+}
+
+.bar-label {
+    display:none;
+}
+
+.hist_slider {
+    display: none;
+    margin:auto;
+    width:100%;
+}
+span.hist_slider {
+    width:500px;
+    height:100px;
+    margin-left:400px;
+    font-weight: bold;
+    font-color: #f11;
+        
+}
+#about ul {
+    width : 30%;
+    
+}
+
+.plots {
+    display: none;
+}
+
+#sidemenu a {
+    display : none;
+    cursor: pointer;
+    padding-top: 2.5%;
+    padding-bottom:2.5%;
+    padding-left: 18%;
+}
+
+#sidemenu a:hover {
+     color : #999;
+     font-weight: bold;
+     background-color: rgb(250, 245, 245);
+}
+
+#sidemenu {
+    margin-top : 50px;
+}
+
+
+#plot_1,#plot_2,#plot_3 {
+    display : none;
+}
+
+#maincontent .sub_plots {
+    height: 8%;
+}
+
+#maincontent #plots {
+    height : 74%;
+}
+
+.dataset-dropdown, .distance_metric_dropdown {
+    display:none;
+}
+
+.task3_variables_container .dataset-dropdown, .task3_variables_container .distance_metric_dropdown {
+    float:left;
+}
+
+
+.task2_variables_container #significance, .task2_variables_container #show_data {
+    float:left;
+    display:none;
+}
+
+.task3_variables_container {
+    margin-top: 1%;
+    margin-left:2%;
+    float:left;
+
+}
+
+.task3_variables_container .dropdown:first-child {
+    margin-left: 0%;
+}
+
+.task3_variables_container .dropdown {
+    margin-left: 1%;
+}
+
+.task2_variables_container .dropdown:first-child {
+    margin-left: 0%;
+}
+
+.task2_variables_container div {
+    margin-left: 2%;
+}
+
+
+.task2_variables_container {
+    margin-top: 1%;
+}
+
+
+
+/************************************/
+
+svg {
+    font: 10px sans-serif;
+    padding: 10px;
+  }
+  
+  .axis,
+  .frame {
+    shape-rendering: crispEdges;
+  }
+  
+  .axis line {
+    stroke: #ddd;
+  }
+  
+  .axis path {
+    display: none;
+  }
+  
+  .cell text {
+    font-weight: bold;
+    text-transform: capitalize;
+    fill: black;
+  }
+  
+  .frame {
+    fill: none;
+    stroke: #aaa;
+  }
+  
+  circle {
+    fill-opacity: .7;
+  }
+  
+  circle.hidden {
+    fill: #ccc !important;
+  }
+  
+  .extent {
+    fill: #000;
+    fill-opacity: .125;
+    stroke: #fff;
+  }
+
+  .task3_variables_container .dropdown {
+      float:left;
+  }
+
+ .sub_plots .task3_variables_container:first-child {
+     width: 50%;
+ }
+
+ .sub_plots .task3_variables_container {
+     width: 35%;
+ }
+
+ 
+ .sub_plots .task2_variables_container:first-child {
+    width: 13%;
+}
+
+.sub_plots .task2_variables_container {
+    width: 32%;
+}
+
+ .task2_variables_container {
+     float:left;
+ }

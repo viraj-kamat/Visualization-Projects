@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+
+<!--
+Name : index.html
+Details : The main html file containing markup
+Author : virajk
+-->
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>
+        Lab 1 
+    </title>
+    
+    <script src="js/d3/d3.js" ></script>
+    
+<script src="js/jquery-3.4.1.min.js" ></script>      
+<link rel="stylesheet" href="js/bootstrap-4.4.1-dist/css/bootstrap.min.css" >
+    
+<link rel="stylesheet" href="styles/style.css" >
+    
+<script src="js/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js" ></script>
+    
+<script src="js/d3-simple-slider.min.js"></script> 
+    
+<script src="js/palette.js"></script>     
+     
+    
+</head>
+
+
+<body>
+    <div id="header">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top"> <!-- Navigation bar -->
+        <a class='navbar-brand' href="javascript::void(0)">Visualization Lab 1</a>
+            <div class="" >
+                <ul class="navbar-nav mr-auto">
+                    <li value="dataset" class="nav-item"><a class="nav-link">Data-Set</a></li>
+                    <li value="plots" class="nav-item"  ><a class="nav-link active">Plots</a></li>
+                    <li  value="assignment_details" class="nav-item"><a class="nav-link">Assignment Details</a></li>
+                    <li value="sources" class="nav-item"><a class="nav-link">Sources/References</a></li>
+                    <li value="about" class="nav-item"><a class="nav-link">About</a></li>
+                </ul>    
+            </div>
+        </nav>
+    </div>
+    
+    <div id="body" class="wrapper">
+        <nav id="sidemenu">             <!- Click the menu here to view content -->
+
+            
+            
+        </nav>
+        <div id="maincontent" >          <!- Main content that loads goes here -->
+            
+            <div class="no-face" id="plots" style="display:block;">
+            <div class="dropdown" id="variable_select">
+                <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+                  Select Variable
+                </button>
+                
+                 <div class="dropdown-menu"> 
+                      <a class="dropdown-item variable" href="JavaScript:Void(0)">Car Manufacturer</a>
+                       <a class="dropdown-item variable" href="JavaScript:Void(0)" >Fuel Type</a>
+                       <a class="dropdown-item variable" href="JavaScript:Void(0)" >HorsePower</a>
+                    <a class="dropdown-item variable" href="JavaScript:Void(0)" >Number of Cylinders</a>
+                    <a class="dropdown-item variable" href="JavaScript:Void(0)" >Transmission Type</a>
+                    <a class="dropdown-item variable" href="JavaScript:Void(0)" >Drive Type</a>
+                    <a class="dropdown-item variable" href="JavaScript:Void(0)" >Number of Doors</a>
+                    <a class="dropdown-item variable" href="JavaScript:Void(0)" >Vehicle Size</a>
+                    <a class="dropdown-item variable" href="JavaScript:Void(0)" >Highway Mileage</a>
+                    <a class="dropdown-item variable" href="JavaScript:Void(0)" >City Mileage</a>
+                    <a class="dropdown-item variable" href="JavaScript:Void(0)" >Vehicle Style</a>
+                    <a class="dropdown-item variable" href="JavaScript:Void(0)" >MSRP</a>
+                     <a class="dropdown-item variable" href="JavaScript:Void(0)" >Popularity Score</a>
+                     <a class="dropdown-item variable" href="JavaScript:Void(0)" >Market Category</a>
+                     <a class="dropdown-item variable" href="JavaScript:Void(0)" >Year Launched</a>
+                 </div>
+            </div>
+            
+            <!--svg width="600" height="500" id="svg_container"></svg-->
+            <div class='plot_container'>
+                <svg></svg>
+            </div>
+            <div  id="hist_slider" style="margin-top:20px"></div>
+            <span class="hist_slider">Slide to increase/decrease number of bins</span>
+            </div>
+            <div class="no-face" id="assignment_details">
+                <h2>Create a plot from a given dataset</h2>
+                <div>
+                Based on requirements from assignment 1, I have created a bar chart/histogram for a cars dataset.<br/>
+                Select the plots link in the main menu and from the drop down the required variable to plot a chart.<br/><br/>
+                Functionalities<br/>
+                <ul>
+                    <li>Display histogram for numerical values</li>
+                    <li>Plot a bar chart for categorical variables</li>
+                    <li>On hover of each bar in the chart, display its value and make the bar wider and more prominent</li>
+                    <li>For histogram plots enable the ability to increase/decrease bin size. This is done via a slider.</li>
+                    </ul>
+                </div>
+            
+            </div>
+            <div class="no-face" id="dataset">
+                <div class="paragraph">
+                <h3>This is a dataset of cars picked from Kaggle.</h3> <br/>
+                The following are the links to the dataset: <br/><br/>
+                <ul>
+                    <li>https://www.kaggle.com/CooperUnion/cardataset</li>
+                    <li>https://www.kaggle.com/toramky/automobile-dataset</li>
+                    <li>https://www.kaggle.com/ljanjughazyan/cars1</li>
+                </ul>
+                <br/>
+                The dataset was cleaned using python. Some values which where empty were replaced with 0, in other cases the row was removed alltogether. No specific python module was used for cleaning the data.
+                </div>
+            </div>
+            <div class="no-face" id="sources">
+            <h3>Sources/References</h3> 
+                <ul>
+                    <li>https://github.com/d3/</li>
+                    <li>https://github.com/google/palette.js/tree/master</li>
+                    <li>https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/</li>
+                    <li>https://www.freecodecamp.org/news/how-to-create-your-first-bar-chart-with-d3-js-a0e8ea2df386/</li>
+                </ul>
+            </div>
+            <div class="no-face" id="about" >
+            <h3>About:</h3>
+                <ul class="list-group">
+                  <li class="list-group-item">Name: Viraj Kamat</li>
+                  <li class="list-group-item">SBU ID : 112818603</li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+    <div id="footer">
+    </div>
+    
+    
+
+</body>
+<script src="js/script.js" ></script>   
+</html>   
+
+

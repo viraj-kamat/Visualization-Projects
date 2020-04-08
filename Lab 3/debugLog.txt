@@ -1,0 +1,137 @@
+(30.03.2020 21:50:31) MESSAGE (tuvok::AbstrRenderer::CheckForRedraw) Still drawing...
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Execute3DFrame) 8 bricks left to render
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Setting up vars
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Transfer function scaling factor: 16.004
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Gradient scaling factor: 41.336
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Done
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Brick 38 of 45
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Requesting texture from MemMan
+(30.03.2020 21:50:31) MESSAGE (tuvok::GPUMemMan::AllocOrGetVolume) Reusing 3D texture
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Binding Texture
+(30.03.2020 21:50:31) MESSAGE (tuvok::GPUMemMan::Release3DTexture) Decreased 3D texture use count to 0
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView) Rendered 1 bricks this call.
+(30.03.2020 21:50:31) MESSAGE (tuvok::AbstrRenderer::CheckForRedraw) Still drawing...
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Execute3DFrame) 7 bricks left to render
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Setting up vars
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Transfer function scaling factor: 16.004
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Gradient scaling factor: 41.336
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Done
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Brick 39 of 45
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Requesting texture from MemMan
+(30.03.2020 21:50:31) MESSAGE (tuvok::GPUMemMan::AllocOrGetVolume) Reusing 3D texture
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Binding Texture
+(30.03.2020 21:50:31) MESSAGE (tuvok::GPUMemMan::Release3DTexture) Decreased 3D texture use count to 0
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView) Rendered 1 bricks this call.
+(30.03.2020 21:50:31) MESSAGE (tuvok::AbstrRenderer::CheckForRedraw) Still drawing...
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Execute3DFrame) 6 bricks left to render
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Setting up vars
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Transfer function scaling factor: 16.004
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Gradient scaling factor: 41.336
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Done
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Brick 40 of 45
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Requesting texture from MemMan
+(30.03.2020 21:50:31) MESSAGE (tuvok::GPUMemMan::AllocOrGetVolume) Reusing 3D texture
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Binding Texture
+(30.03.2020 21:50:31) MESSAGE (tuvok::GPUMemMan::Release3DTexture) Decreased 3D texture use count to 0
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView) Rendered 1 bricks this call.
+(30.03.2020 21:50:31) MESSAGE (tuvok::AbstrRenderer::CheckForRedraw) Still drawing...
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Execute3DFrame) 5 bricks left to render
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Setting up vars
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Transfer function scaling factor: 16.004
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Gradient scaling factor: 41.336
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Done
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Brick 41 of 45
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Requesting texture from MemMan
+(30.03.2020 21:50:31) MESSAGE (tuvok::GPUMemMan::AllocOrGetVolume) Reusing 3D texture
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Binding Texture
+(30.03.2020 21:50:31) MESSAGE (tuvok::GPUMemMan::Release3DTexture) Decreased 3D texture use count to 0
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView) Rendered 1 bricks this call.
+(30.03.2020 21:50:31) MESSAGE (tuvok::AbstrRenderer::CheckForRedraw) Still drawing...
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Execute3DFrame) 4 bricks left to render
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Setting up vars
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Transfer function scaling factor: 16.004
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Gradient scaling factor: 41.336
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Done
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Brick 42 of 45
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Requesting texture from MemMan
+(30.03.2020 21:50:31) MESSAGE (tuvok::GPUMemMan::AllocOrGetVolume) Reusing 3D texture
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Binding Texture
+(30.03.2020 21:50:31) MESSAGE (tuvok::GPUMemMan::Release3DTexture) Decreased 3D texture use count to 0
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView) Rendered 1 bricks this call.
+(30.03.2020 21:50:31) MESSAGE (tuvok::AbstrRenderer::CheckForRedraw) Still drawing...
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Execute3DFrame) 3 bricks left to render
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Setting up vars
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Transfer function scaling factor: 16.004
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Gradient scaling factor: 41.336
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Done
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Brick 43 of 45
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Requesting texture from MemMan
+(30.03.2020 21:50:31) MESSAGE (tuvok::GPUMemMan::AllocOrGetVolume) Reusing 3D texture
+(30.03.2020 21:50:31) MESSAGE (tuvok::GLRenderer::Render3DView)   Binding Texture
+(30.03.2020 21:50:31) MESSAGE (tuvok::GPUMemMan::Release3DTexture) Decreased 3D texture use count to 0
+(30.03.2020 21:50:32) MESSAGE (tuvok::GLRenderer::Render3DView) Rendered 1 bricks this call.
+(30.03.2020 21:50:32) MESSAGE (tuvok::AbstrRenderer::CheckForRedraw) Still drawing...
+(30.03.2020 21:50:32) MESSAGE (tuvok::GLRenderer::Execute3DFrame) 2 bricks left to render
+(30.03.2020 21:50:32) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Setting up vars
+(30.03.2020 21:50:32) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Transfer function scaling factor: 16.004
+(30.03.2020 21:50:32) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Gradient scaling factor: 41.336
+(30.03.2020 21:50:32) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Done
+(30.03.2020 21:50:32) MESSAGE (tuvok::GLRenderer::Render3DView)   Brick 44 of 45
+(30.03.2020 21:50:32) MESSAGE (tuvok::GLRenderer::Render3DView)   Requesting texture from MemMan
+(30.03.2020 21:50:32) MESSAGE (tuvok::GPUMemMan::AllocOrGetVolume) Reusing 3D texture
+(30.03.2020 21:50:32) MESSAGE (tuvok::GLRenderer::Render3DView)   Binding Texture
+(30.03.2020 21:50:32) MESSAGE (tuvok::GPUMemMan::Release3DTexture) Decreased 3D texture use count to 0
+(30.03.2020 21:50:32) MESSAGE (tuvok::GLRenderer::Render3DView)   Brick 45 of 45
+(30.03.2020 21:50:32) MESSAGE (tuvok::GLRenderer::Render3DView)   Requesting texture from MemMan
+(30.03.2020 21:50:32) MESSAGE (tuvok::GPUMemMan::AllocOrGetVolume) Reusing 3D texture
+(30.03.2020 21:50:32) MESSAGE (tuvok::GLRenderer::Render3DView)   Binding Texture
+(30.03.2020 21:50:32) MESSAGE (tuvok::GPUMemMan::Release3DTexture) Decreased 3D texture use count to 0
+(30.03.2020 21:50:32) MESSAGE (tuvok::GLRenderer::Render3DView) Rendered 2 bricks this call.
+(30.03.2020 23:19:21) MESSAGE (tuvok::AbstrRenderer::CheckForRedraw) Still drawing...
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Execute3DFrame) 7 bricks left to render
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Setting up vars
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Transfer function scaling factor: 1.004
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Gradient scaling factor: 1.500
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Done
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Brick 21 of 27
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Requesting texture from MemMan
+(30.03.2020 23:19:21) MESSAGE (tuvok::GPUMemMan::AllocOrGetVolume) Reusing 3D texture
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Binding Texture
+(30.03.2020 23:19:21) MESSAGE (tuvok::GPUMemMan::Release3DTexture) Decreased 3D texture use count to 0
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Brick 22 of 27
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Requesting texture from MemMan
+(30.03.2020 23:19:21) MESSAGE (tuvok::GPUMemMan::AllocOrGetVolume) Reusing 3D texture
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Binding Texture
+(30.03.2020 23:19:21) MESSAGE (tuvok::GPUMemMan::Release3DTexture) Decreased 3D texture use count to 0
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Brick 23 of 27
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Requesting texture from MemMan
+(30.03.2020 23:19:21) MESSAGE (tuvok::GPUMemMan::AllocOrGetVolume) Reusing 3D texture
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Binding Texture
+(30.03.2020 23:19:21) MESSAGE (tuvok::GPUMemMan::Release3DTexture) Decreased 3D texture use count to 0
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView) Rendered 3 bricks this call.
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Execute3DFrame) 4 bricks left to render
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Setting up vars
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Transfer function scaling factor: 1.004
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Gradient scaling factor: 1.500
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::SetDataDepShaderVars) Done
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Brick 24 of 27
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Requesting texture from MemMan
+(30.03.2020 23:19:21) MESSAGE (tuvok::GPUMemMan::AllocOrGetVolume) Reusing 3D texture
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Binding Texture
+(30.03.2020 23:19:21) MESSAGE (tuvok::GPUMemMan::Release3DTexture) Decreased 3D texture use count to 0
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Brick 25 of 27
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Requesting texture from MemMan
+(30.03.2020 23:19:21) MESSAGE (tuvok::GPUMemMan::AllocOrGetVolume) Reusing 3D texture
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Binding Texture
+(30.03.2020 23:19:21) MESSAGE (tuvok::GPUMemMan::Release3DTexture) Decreased 3D texture use count to 0
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Brick 26 of 27
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Requesting texture from MemMan
+(30.03.2020 23:19:21) MESSAGE (tuvok::GPUMemMan::AllocOrGetVolume) Reusing 3D texture
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Binding Texture
+(30.03.2020 23:19:21) MESSAGE (tuvok::GPUMemMan::Release3DTexture) Decreased 3D texture use count to 0
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Brick 27 of 27
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Requesting texture from MemMan
+(30.03.2020 23:19:21) MESSAGE (tuvok::GPUMemMan::AllocOrGetVolume) Reusing 3D texture
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView)   Binding Texture
+(30.03.2020 23:19:21) MESSAGE (tuvok::GPUMemMan::Release3DTexture) Decreased 3D texture use count to 0
+(30.03.2020 23:19:21) MESSAGE (tuvok::GLRenderer::Render3DView) Rendered 4 bricks this call.

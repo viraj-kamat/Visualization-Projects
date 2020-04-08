@@ -1,0 +1,251 @@
+manufacturer,fuel_type,transmission,cylinders,wheels,MSRP,size,style,horsepower,highwaympg,citympg,doors,year,doors2,market_category,popularity
+Mazda,regular unleaded,MANUAL,6,rear wheel drive,15125,Compact,Regular Cab Pickup,150,21,15,2,2001,2,Generic,586
+Hyundai,regular unleaded,AUTOMATIC,4,all wheel drive,25200,Compact,4dr SUV,182,25,20,4,2015,4,Crossover,1439
+Volkswagen,premium unleaded (recommended),MANUAL,4,front wheel drive,27455,Midsize,Sedan,210,33,23,4,2014,4,Performance,873
+Nissan,regular unleaded,AUTOMATIC,6,front wheel drive,27390,Midsize,Sedan,270,32,22,4,2016,4,Performance,2009
+Volkswagen,regular unleaded,AUTOMATIC,4,front wheel drive,26995,Compact,Wagon,170,36,25,4,2015,4,Generic,873
+Volkswagen,regular unleaded,AUTOMATIC,5,front wheel drive,27390,Compact,Convertible,150,28,20,2,2010,2,Generic,873
+Pontiac,regular unleaded,MANUAL,4,front wheel drive,2000,Compact,Coupe,74,37,26,2,1992,2,Generic,210
+Bentley,flex-fuel (premium unleaded required/E85),AUTOMATIC,12,all wheel drive,218500,Midsize,Convertible,567,20,12,2,2014,2,Exotic,520
+Hyundai,regular unleaded,AUTOMATIC,4,front wheel drive,30100,Midsize,Sedan,193,43,39,4,2016,4,Hybrid,1439
+Toyota,flex-fuel (unleaded/E85),AUTOMATIC,8,rear wheel drive,46530,Large,Crew Cab Pickup,381,18,13,4,2016,4,Flex-Fuel,2031
+Saab,premium unleaded (recommended),AUTOMATIC,4,front wheel drive,38305,Compact,Wagon,210,27,19,4,2009,4,Luxury,376
+Mazda,regular unleaded,AUTOMATIC,4,front wheel drive,24945,Compact,4dr Hatchback,184,35,26,4,2017,4,"Hatchback,Performance",586
+BMW,premium unleaded (required),MANUAL,6,rear wheel drive,64000,Midsize,Sedan,425,26,17,4,2017,4,Factory Tuner,3916
+Chevrolet,premium unleaded (recommended),MANUAL,8,rear wheel drive,64450,Compact,Coupe,455,29,17,2,2015,2,High-Performance,1385
+Toyota,regular unleaded,MANUAL,4,front wheel drive,22450,Midsize,Coupe,155,31,21,2,2008,2,Generic,2031
+Chevrolet,regular unleaded,AUTOMATIC,8,rear wheel drive,2000,Large,Wagon,260,23,15,4,1994,4,Generic,1385
+Acura,premium unleaded (recommended),AUTOMATIC,6,front wheel drive,37405,Midsize,Sedan,280,29,20,4,2013,4,"Luxury,Performance",204
+BMW,premium unleaded (required),AUTOMATIC,6,rear wheel drive,45800,Midsize,Sedan,320,33,22,4,2016,4,"Luxury,High-Performance",3916
+Volkswagen,premium unleaded (recommended),AUTOMATED_MANUAL,4,front wheel drive,28395,Compact,4dr Hatchback,200,33,24,4,2013,4,"Hatchback,Performance",873
+Ford,regular unleaded,AUTOMATIC,4,front wheel drive,22500,Midsize,Sedan,175,34,22,4,2015,4,Generic,5657
+Chevrolet,regular unleaded,AUTOMATIC,8,four wheel drive,45420,Large,Crew Cab Pickup,355,22,16,4,2015,4,Generic,1385
+Mazda,premium unleaded (required),MANUAL,4,front wheel drive,24200,Compact,4dr Hatchback,263,25,18,4,2013,4,"Hatchback,Factory Tuner,Performance",586
+Mitsubishi,regular unleaded,AUTOMATIC,6,rear wheel drive,22907,Midsize,4dr SUV,165,21,16,4,2003,4,Generic,436
+Mitsubishi,regular unleaded,AUTOMATIC,4,rear wheel drive,2000,Compact,Passenger Minivan,107,19,16,3,1990,3,Generic,436
+Buick,regular unleaded,AUTOMATIC,6,rear wheel drive,31550,Midsize,4dr SUV,291,20,14,4,2007,4,Generic,155
+Aston Martin,premium unleaded (required),AUTOMATIC,12,rear wheel drive,284976,Midsize,Coupe,510,18,12,2,2012,2,Exotic,259
+Audi,premium unleaded (recommended),AUTOMATIC,8,all wheel drive,115900,Large,Sedan,605,24,15,4,2017,4,Factory Tuner,3105
+Land Rover,flex-fuel (premium unleaded required/E85),AUTOMATIC,6,four wheel drive,76875,Midsize,4dr SUV,340,23,17,4,2015,4,Flex-Fuel,258
+Dodge,regular unleaded,AUTOMATIC,6,all wheel drive,29795,Midsize,4dr SUV,283,24,16,4,2017,4,Crossover,1851
+Toyota,regular unleaded,AUTOMATIC,6,front wheel drive,34395,Midsize,4dr SUV,270,25,19,4,2016,4,Crossover,2031
+Toyota,flex-fuel (unleaded/E85),AUTOMATIC,8,four wheel drive,50030,Large,Crew Cab Pickup,381,17,13,4,2017,4,Flex-Fuel,2031
+Cadillac,regular unleaded,AUTOMATIC,8,rear wheel drive,2000,Large,Sedan,260,23,15,4,1995,4,Luxury,1624
+Pontiac,regular unleaded,AUTOMATIC,6,front wheel drive,29420,Compact,4dr SUV,264,24,17,4,2009,4,Crossover,210
+Suzuki,regular unleaded,MANUAL,4,rear wheel drive,2000,Compact,Convertible SUV,95,24,21,2,1996,2,Generic,481
+Ford,regular unleaded,AUTOMATIC,6,front wheel drive,27870,Midsize,Passenger Minivan,200,22,16,4,2003,4,Generic,5657
+Cadillac,regular unleaded,AUTOMATIC,6,all wheel drive,57995,Large,Sedan,304,26,17,4,2017,4,"Luxury,Performance",1624
+Ford,regular unleaded,AUTOMATIC,6,four wheel drive,47330,Large,4dr SUV,365,20,14,4,2016,4,Generic,5657
+Lincoln,regular unleaded,AUTOMATIC,8,four wheel drive,41525,Large,Crew Cab Pickup,300,16,12,4,2007,4,Luxury,61
+Toyota,regular unleaded,MANUAL,4,front wheel drive,19565,Compact,4dr Hatchback,158,28,21,4,2012,4,Hatchback,2031
+Mazda,premium unleaded (required),AUTOMATIC,,rear wheel drive,26795,Compact,Coupe,212,23,16,4,2011,4,Performance,586
+GMC,regular unleaded,AUTOMATIC,4,all wheel drive,29050,Compact,4dr SUV,182,28,20,4,2017,4,Crossover,549
+Audi,premium unleaded (required),AUTOMATED_MANUAL,8,all wheel drive,138400,Compact,Convertible,430,23,14,2,2015,2,"Luxury,High-Performance",3105
+Mitsubishi,premium unleaded (required),AUTOMATIC,6,all wheel drive,29099,Midsize,4dr SUV,225,19,15,4,2008,4,Crossover,436
+GMC,regular unleaded,MANUAL,6,rear wheel drive,15840,Large,Regular Cab Pickup,195,21,15,2,2007,2,Flex-Fuel,549
+Audi,premium unleaded (recommended),AUTOMATED_MANUAL,4,front wheel drive,46550,Compact,Convertible,186,34,25,2,2017,2,Luxury,3105
+Subaru,regular unleaded,MANUAL,6,all wheel drive,2000,Compact,Coupe,145,23,16,2,1991,2,Generic,640
+Honda,regular unleaded,MANUAL,4,front wheel drive,2000,Compact,2dr Hatchback,108,30,24,2,1991,2,Hatchback,2202
+Nissan,regular unleaded,AUTOMATIC,6,four wheel drive,43760,Large,4dr SUV,284,26,19,4,2017,4,Crossover,2009
+Volvo,regular unleaded,AUTOMATIC,4,rear wheel drive,2000,Midsize,Sedan,162,20,17,4,1991,4,"Luxury,Performance",870
+Mitsubishi,regular unleaded,AUTOMATIC,6,rear wheel drive,26199,Midsize,4dr SUV,197,19,15,4,2004,4,Generic,436
+Suzuki,regular unleaded,MANUAL,6,four wheel drive,22299,Midsize,4dr SUV,185,20,15,4,2005,4,Generic,481
+GMC,flex-fuel (unleaded/E85),AUTOMATIC,8,four wheel drive,54015,Large,4dr SUV,355,22,15,4,2016,4,Flex-Fuel,549
+Dodge,regular unleaded,AUTOMATIC,4,front wheel drive,2000,Midsize,Sedan,100,24,18,4,1993,4,Generic,1851
+GMC,flex-fuel (unleaded/E85),AUTOMATIC,8,four wheel drive,33935,Large,Extended Cab Pickup,295,17,13,4,2007,4,Flex-Fuel,549
+Honda,regular unleaded,AUTOMATIC,4,front wheel drive,25220,Compact,4dr SUV,185,31,23,4,2014,4,Crossover,2202
+Lotus,premium unleaded (required),MANUAL,4,rear wheel drive,47250,Compact,Convertible,189,27,21,2,2009,2,Exotic,613
+GMC,regular unleaded,AUTOMATIC,8,four wheel drive,28845,Large,Crew Cab Pickup,285,18,14,4,2007,4,Generic,549
+Lincoln,regular unleaded,AUTOMATIC,8,rear wheel drive,2000,Large,Coupe,280,24,16,2,1996,2,Luxury,61
+Hyundai,regular unleaded,AUTOMATIC,6,front wheel drive,39400,Midsize,4dr SUV,290,23,17,4,2017,4,Crossover,1439
+Chevrolet,regular unleaded,MANUAL,6,rear wheel drive,31205,Midsize,Convertible,323,28,17,2,2015,2,Performance,1385
+Toyota,regular unleaded,MANUAL,4,front wheel drive,16870,Compact,4dr Hatchback,106,37,30,4,2016,4,Hatchback,2031
+Nissan,regular unleaded,AUTOMATIC,6,four wheel drive,31980,Large,4dr SUV,284,26,19,4,2017,4,Crossover,2009
+Volkswagen,regular unleaded,AUTOMATIC,6,front wheel drive,42500,Midsize,Passenger Minivan,251,25,17,4,2010,4,Generic,873
+Infiniti,premium unleaded (required),AUTOMATIC,8,all wheel drive,50100,Midsize,4dr SUV,320,17,13,4,2008,4,Crossover,190
+Toyota,regular unleaded,AUTOMATIC,8,four wheel drive,34670,Large,Extended Cab Pickup,381,17,13,4,2017,4,Generic,2031
+Toyota,regular unleaded,AUTOMATIC,4,all wheel drive,34030,Midsize,4dr SUV,194,30,34,4,2017,4,Crossover,2031
+Oldsmobile,regular unleaded,AUTOMATIC,6,front wheel drive,2000,Large,Sedan,205,26,17,4,1997,4,Generic,26
+Cadillac,regular unleaded,AUTOMATIC,8,front wheel drive,49230,Large,Sedan,275,23,15,4,2009,4,Luxury,1624
+Suzuki,regular unleaded,MANUAL,4,rear wheel drive,2000,Compact,Convertible SUV,95,24,21,2,1998,2,Generic,481
+Chevrolet,regular unleaded,AUTOMATIC,6,front wheel drive,23465,Midsize,4dr Hatchback,201,28,20,4,2006,4,Hatchback,1385
+Toyota,regular unleaded,AUTOMATIC,4,front wheel drive,20360,Compact,4dr Hatchback,99,46,53,4,2016,4,"Hatchback,Hybrid",2031
+Mercedes-Benz,premium unleaded (required),AUTOMATED_MANUAL,8,rear wheel drive,189600,Compact,Coupe,563,20,14,2,2012,2,Exotic,617
+Kia,regular unleaded,AUTOMATIC,4,all wheel drive,23650,Compact,4dr SUV,182,26,19,4,2016,4,Crossover,1720
+Chrysler,regular unleaded,AUTOMATIC,6,rear wheel drive,42770,Large,Sedan,292,30,19,4,2017,4,Performance,1013
+GMC,flex-fuel (unleaded/E85),AUTOMATIC,6,four wheel drive,39160,Large,Regular Cab Pickup,285,22,17,2,2017,2,Flex-Fuel,549
+Land Rover,regular unleaded,AUTOMATIC,6,all wheel drive,26830,Compact,4dr SUV,174,19,16,4,2005,4,Crossover,258
+Plymouth,regular unleaded,MANUAL,4,front wheel drive,2000,Compact,Sedan,150,36,24,4,1999,4,Generic,535
+GMC,regular unleaded,AUTOMATIC,6,all wheel drive,25430,Large,Cargo Minivan,190,18,14,3,2005,3,Generic,549
+Nissan,regular unleaded,AUTOMATIC,6,four wheel drive,35260,Compact,Crew Cab Pickup,261,21,15,4,2015,4,Generic,2009
+BMW,premium unleaded (required),MANUAL,8,rear wheel drive,130000,Compact,Convertible,394,19,12,2,2002,2,Exotic,3916
+Mercedes-Benz,premium unleaded (required),AUTOMATIC,4,all wheel drive,43675,Midsize,Sedan,241,31,24,4,2017,4,Luxury,617
+Chevrolet,regular unleaded,MANUAL,6,rear wheel drive,2639,Large,Regular Cab Pickup,200,21,16,2,1998,2,Generic,1385
+Cadillac,flex-fuel (unleaded/E85),AUTOMATIC,8,four wheel drive,94875,Large,4dr SUV,420,20,14,4,2015,4,Flex-Fuel,1624
+Chrysler,regular unleaded,AUTOMATIC,6,front wheel drive,30495,Midsize,Passenger Minivan,287,28,18,4,2017,4,Generic,1013
+GMC,flex-fuel (unleaded/E85),AUTOMATIC,4,rear wheel drive,15093,Compact,Regular Cab Pickup,120,23,17,2,2002,2,Flex-Fuel,549
+Mitsubishi,regular unleaded,MANUAL,4,front wheel drive,19595,Compact,4dr SUV,148,30,24,4,2015,4,Crossover,436
+Mitsubishi,regular unleaded,AUTOMATIC,3,front wheel drive,13995,Compact,4dr Hatchback,74,44,37,4,2014,4,Hatchback,436
+Volvo,regular unleaded,AUTOMATIC,4,front wheel drive,46675,Midsize,Wagon,240,31,23,4,2016,4,Crossover,870
+Infiniti,premium unleaded (required),AUTOMATIC,8,rear wheel drive,64550,Large,Sedan,420,24,16,4,2016,4,"Luxury,Performance",190
+Nissan,regular unleaded,AUTOMATIC,8,rear wheel drive,42680,Large,4dr SUV,317,19,13,4,2014,4,Flex-Fuel,2009
+Ferrari,premium unleaded (required),AUTOMATED_MANUAL,8,rear wheel drive,199054,Compact,Coupe,483,16,11,2,2008,2,Exotic,2774
+Lexus,premium unleaded (required),AUTOMATIC,6,all wheel drive,43480,Midsize,4dr SUV,268,24,26,4,2008,4,Crossover,454
+Scion,regular unleaded,MANUAL,4,front wheel drive,12530,Compact,4dr Hatchback,108,34,27,4,2005,4,Hatchback,105
+Infiniti,premium unleaded (recommended),AUTOMATIC,4,front wheel drive,45400,Large,4dr SUV,230,28,26,4,2015,4,Crossover,190
+Chevrolet,regular unleaded,AUTOMATIC,4,front wheel drive,25925,Midsize,Sedan,164,34,26,4,2010,4,Hybrid,1385
+Lexus,premium unleaded (required),AUTOMATIC,6,rear wheel drive,40065,Midsize,Sedan,306,28,19,4,2015,4,"Luxury,High-Performance",454
+Cadillac,premium unleaded (recommended),AUTOMATIC,4,rear wheel drive,45560,Large,Sedan,268,31,21,4,2016,4,"Luxury,Performance",1624
+Volkswagen,premium unleaded (recommended),AUTOMATED_MANUAL,4,front wheel drive,27520,Midsize,Sedan,210,32,24,4,2013,4,Performance,873
+Lexus,regular unleaded,AUTOMATIC,6,all wheel drive,42580,Midsize,4dr SUV,268,25,27,4,2007,4,Crossover,454
+Infiniti,premium unleaded (recommended),AUTOMATIC,6,all wheel drive,41550,Midsize,Sedan,328,25,18,4,2011,4,Luxury,190
+Mazda,regular unleaded,AUTOMATIC,4,front wheel drive,22370,Compact,Passenger Minivan,157,28,21,4,2015,4,Generic,586
+Dodge,regular unleaded,AUTOMATIC,8,rear wheel drive,2239,Midsize,Cargo Van,230,17,12,3,1998,3,Generic,1851
+Nissan,premium unleaded (required),MANUAL,6,rear wheel drive,48100,Compact,Convertible,332,24,17,2,2016,2,High-Performance,2009
+Chevrolet,flex-fuel (unleaded/E85),AUTOMATIC,8,rear wheel drive,49915,Large,4dr SUV,355,23,16,4,2017,4,Flex-Fuel,1385
+Volkswagen,premium unleaded (recommended),AUTOMATIC,4,front wheel drive,26255,Compact,4dr SUV,200,26,21,4,2015,4,Crossover,873
+Toyota,regular unleaded,AUTOMATIC,4,front wheel drive,26150,Midsize,Sedan,178,35,25,4,2015,4,Generic,2031
+Chevrolet,regular unleaded,AUTOMATIC,8,four wheel drive,26685,Large,Regular Cab Pickup,285,18,14,2,2007,2,Flex-Fuel,1385
+Nissan,regular unleaded,MANUAL,4,front wheel drive,2000,Compact,Coupe,115,36,26,2,1996,2,Generic,2009
+GMC,regular unleaded,AUTOMATIC,4,all wheel drive,30050,Compact,4dr SUV,182,29,20,4,2016,4,Crossover,549
+Acura,premium unleaded (recommended),AUTOMATED_MANUAL,4,front wheel drive,27990,Compact,Sedan,201,35,25,4,2017,4,Luxury,204
+Suzuki,regular unleaded,AUTOMATIC,4,all wheel drive,27199,Midsize,Sedan,180,29,22,4,2013,4,Generic,481
+Toyota,flex-fuel (unleaded/E85),AUTOMATIC,8,four wheel drive,41385,Large,Extended Cab Pickup,381,17,13,4,2015,4,Flex-Fuel,2031
+Infiniti,premium unleaded (recommended),AUTOMATIC,6,all wheel drive,38800,Midsize,4dr SUV,297,24,17,4,2011,4,Crossover,190
+Subaru,regular unleaded,MANUAL,4,four wheel drive,2000,Compact,Sedan,90,26,21,4,1993,4,Generic,640
+GMC,regular unleaded,AUTOMATIC,6,front wheel drive,42095,Midsize,4dr SUV,281,24,17,4,2015,4,Crossover,549
+Ford,regular unleaded,AUTOMATIC,6,front wheel drive,34825,Midsize,Passenger Minivan,200,22,16,4,2003,4,Generic,5657
+Ford,regular unleaded,MANUAL,4,front wheel drive,14455,Compact,Sedan,120,36,28,4,2015,4,Generic,5657
+Aston Martin,premium unleaded (required),AUTOMATIC,12,rear wheel drive,283900,Midsize,Convertible,510,18,12,2,2010,2,Exotic,259
+Toyota,regular unleaded,AUTOMATIC,4,front wheel drive,30935,Midsize,Wagon,134,40,44,4,2016,4,Hybrid,2031
+Toyota,regular unleaded,AUTOMATIC,4,front wheel drive,17550,Compact,Sedan,132,36,27,4,2015,4,Generic,2031
+Chevrolet,flex-fuel (unleaded/E85),AUTOMATIC,8,four wheel drive,29580,Large,Extended Cab Pickup,295,17,13,4,2007,4,Flex-Fuel,1385
+Lincoln,regular unleaded,AUTOMATIC,4,front wheel drive,35010,Midsize,Sedan,,38,41,4,2017,4,"Luxury,Hybrid",61
+Infiniti,premium unleaded (recommended),AUTOMATIC,6,all wheel drive,49050,Midsize,Sedan,360,31,27,4,2016,4,"Luxury,High-Performance,Hybrid",190
+Mercedes-Benz,premium unleaded (required),AUTOMATIC,8,rear wheel drive,63900,Midsize,Sedan,469,25,18,4,2015,4,Factory Tuner,617
+Ford,flex-fuel (unleaded/E85),AUTOMATIC,8,rear wheel drive,52515,Large,Crew Cab Pickup,385,22,15,4,2016,4,Flex-Fuel,5657
+Toyota,regular unleaded,MANUAL,6,four wheel drive,33075,Compact,Crew Cab Pickup,278,20,17,4,2017,4,Generic,2031
+Mercedes-Benz,premium unleaded (required),AUTOMATIC,4,all wheel drive,44650,Midsize,Coupe,241,31,24,2,2017,2,Luxury,617
+Dodge,regular unleaded,MANUAL,8,four wheel drive,2008,Large,Extended Cab Pickup,230,15,12,2,1993,2,Generic,1851
+BMW,premium unleaded (required),AUTOMATIC,8,all wheel drive,102200,Midsize,4dr SUV,567,19,14,4,2016,4,Crossover,3916
+Mazda,regular unleaded,MANUAL,6,four wheel drive,21410,Compact,Extended Cab Pickup,207,17,14,2,2003,2,Generic,586
+Ford,flex-fuel (unleaded/E85),AUTOMATIC,6,front wheel drive,33400,Midsize,4dr SUV,290,24,17,4,2016,4,Crossover,5657
+Dodge,regular unleaded,AUTOMATIC,6,rear wheel drive,21590,Midsize,4dr SUV,210,22,16,4,2011,4,Crossover,1851
+Chevrolet,flex-fuel (unleaded/E85),AUTOMATIC,6,rear wheel drive,36035,Large,Crew Cab Pickup,285,24,18,4,2017,4,Flex-Fuel,1385
+Hyundai,regular unleaded,AUTOMATIC,4,all wheel drive,27950,Compact,4dr SUV,182,25,20,4,2015,4,Crossover,1439
+Mitsubishi,regular unleaded,AUTOMATIC,4,front wheel drive,23999,Midsize,Sedan,160,30,21,4,2011,4,Generic,436
+Subaru,regular unleaded,AUTOMATIC,4,all wheel drive,24145,Midsize,Sedan,175,36,26,4,2016,4,Generic,640
+Pontiac,regular unleaded,MANUAL,4,front wheel drive,2000,Compact,Coupe,74,34,24,2,1992,2,Generic,210
+Nissan,premium unleaded (recommended),AUTOMATIC,4,front wheel drive,22300,Compact,4dr Hatchback,188,32,28,4,2015,4,Crossover,2009
+Honda,regular unleaded,AUTOMATIC,4,front wheel drive,20375,Compact,4dr Hatchback,98,44,41,4,2013,4,"Hatchback,Hybrid",2202
+Chrysler,regular unleaded,AUTOMATIC,6,front wheel drive,23480,Large,Sedan,200,27,19,4,2004,4,Generic,1013
+Ford,flex-fuel (unleaded/E85),AUTOMATIC,6,rear wheel drive,37580,Large,Passenger Van,275,19,14,3,2015,3,Flex-Fuel,5657
+Volkswagen,diesel,AUTOMATED_MANUAL,4,front wheel drive,29625,Compact,2dr Hatchback,150,41,31,2,2015,2,"Hatchback,Diesel",873
+Chevrolet,flex-fuel (unleaded/E85),AUTOMATIC,6,rear wheel drive,33985,Large,Regular Cab Pickup,285,24,18,2,2017,2,Flex-Fuel,1385
+Audi,premium unleaded (required),AUTOMATIC,6,all wheel drive,60900,Large,4dr SUV,333,22,16,4,2014,4,Crossover,3105
+Dodge,regular unleaded,AUTOMATIC,6,rear wheel drive,27315,Compact,Extended Cab Pickup,210,20,15,4,2009,4,Flex-Fuel,1851
+Dodge,flex-fuel (unleaded/E85),AUTOMATIC,6,front wheel drive,30995,Midsize,Passenger Minivan,283,25,17,4,2015,4,Flex-Fuel,1851
+Cadillac,flex-fuel (premium unleaded recommended/E85),AUTOMATIC,8,all wheel drive,69640,Large,Crew Cab Pickup,403,18,13,4,2012,4,Crossover,1624
+Acura,premium unleaded (recommended),AUTOMATIC,6,all wheel drive,45950,Midsize,4dr SUV,290,26,18,4,2017,4,Crossover,204
+Pontiac,regular unleaded,MANUAL,4,rear wheel drive,21515,Compact,Convertible,177,26,17,2,2007,2,Performance,210
+Dodge,regular unleaded,AUTOMATIC,8,rear wheel drive,36880,Large,Crew Cab Pickup,390,20,14,4,2010,4,Generic,1851
+Lincoln,regular unleaded,AUTOMATIC,8,rear wheel drive,2459,Large,Coupe,290,24,15,2,1998,2,Luxury,61
+Ferrari,premium unleaded (required),AUTOMATED_MANUAL,8,rear wheel drive,233509,Compact,Coupe,562,17,13,2,2013,2,Exotic,2774
+Plymouth,regular unleaded,MANUAL,4,all wheel drive,2000,Compact,Wagon,113,24,19,4,1992,4,Generic,535
+Acura,regular unleaded,MANUAL,6,front wheel drive,2042,Midsize,Coupe,230,23,15,2,1993,2,"Luxury,Performance",204
+Volkswagen,regular unleaded,AUTOMATIC,5,front wheel drive,25170,Compact,Convertible,170,27,21,2,2014,2,Generic,873
+BMW,premium unleaded (required),AUTOMATIC,6,rear wheel drive,84300,Large,Sedan,350,30,22,4,2013,4,"Luxury,Performance,Hybrid",3916
+Dodge,regular unleaded,MANUAL,6,rear wheel drive,25260,Compact,Crew Cab Pickup,210,20,16,4,2009,4,Flex-Fuel,1851
+Suzuki,regular unleaded,AUTOMATIC,6,front wheel drive,27429,Midsize,4dr SUV,252,24,17,4,2009,4,Crossover,481
+Audi,premium unleaded (recommended),AUTOMATED_MANUAL,4,front wheel drive,37600,Compact,Convertible,186,34,25,2,2017,2,Luxury,3105
+Subaru,regular unleaded,MANUAL,4,all wheel drive,22395,Compact,4dr SUV,148,31,23,4,2016,4,Crossover,640
+Volvo,regular unleaded,AUTOMATIC,4,front wheel drive,33300,Midsize,Sedan,240,37,25,4,2015,4,"Luxury,Performance",870
+GMC,regular unleaded,AUTOMATIC,6,four wheel drive,20715,Large,Regular Cab Pickup,195,17,14,2,2007,2,Flex-Fuel,549
+BMW,premium unleaded (recommended),AUTOMATIC,4,rear wheel drive,33150,Compact,Coupe,248,35,24,2,2017,2,"Luxury,Performance",3916
+Mazda,regular unleaded,AUTOMATIC,4,all wheel drive,21210,Compact,4dr SUV,146,32,27,4,2016,4,Crossover,586
+Lincoln,regular unleaded,AUTOMATIC,6,front wheel drive,39010,Large,Sedan,350,26,17,4,2016,4,"Luxury,Performance",61
+Acura,premium unleaded (recommended),AUTOMATIC,6,front wheel drive,50360,Midsize,4dr SUV,290,27,19,4,2017,4,Crossover,204
+GMC,regular unleaded,AUTOMATIC,8,four wheel drive,33785,Large,Extended Cab Pickup,310,17,13,4,2007,4,Flex-Fuel,549
+Dodge,regular unleaded,MANUAL,6,rear wheel drive,2000,Large,Regular Cab Pickup,180,17,13,2,1992,2,Generic,1851
+Scion,regular unleaded,AUTOMATIC,4,front wheel drive,15665,Compact,2dr Hatchback,94,37,36,2,2014,2,Hatchback,105
+Infiniti,premium unleaded (recommended),MANUAL,6,rear wheel drive,53400,Midsize,Convertible,325,24,16,2,2014,2,"Luxury,Performance",190
+Honda,regular unleaded,AUTOMATIC,6,all wheel drive,35580,Large,Crew Cab Pickup,280,25,18,4,2017,4,Generic,2202
+Suzuki,regular unleaded,MANUAL,4,all wheel drive,16999,Compact,4dr Hatchback,150,30,22,4,2013,4,Crossover,481
+Ford,flex-fuel (unleaded/E85),AUTOMATIC,4,front wheel drive,28215,Compact,Passenger Minivan,169,27,19,4,2017,4,Generic,5657
+Mazda,regular unleaded,AUTOMATIC,4,all wheel drive,24690,Compact,4dr SUV,171,25,19,4,2009,4,Crossover,586
+Ford,flex-fuel (unleaded/E85),AUTOMATIC,6,front wheel drive,41300,Midsize,4dr SUV,290,24,17,4,2016,4,Crossover,5657
+Ford,flex-fuel (unleaded/E85),AUTOMATIC,4,front wheel drive,22900,Compact,Cargo Minivan,169,27,20,4,2017,4,Generic,5657
+Volvo,regular unleaded,AUTOMATIC,5,all wheel drive,39600,Midsize,Wagon,250,29,20,4,2016,4,Luxury,870
+Bentley,premium unleaded (required),AUTOMATIC,8,all wheel drive,195100,Large,Sedan,500,24,14,4,2015,4,Exotic,520
+Acura,regular unleaded,MANUAL,4,front wheel drive,21100,Compact,2dr Hatchback,160,30,24,2,2004,2,"Hatchback,Luxury,Performance",204
+Buick,premium unleaded (recommended),AUTOMATIC,4,all wheel drive,34325,Midsize,Sedan,259,27,19,4,2016,4,Performance,155
+Aston Martin,premium unleaded (required),MANUAL,8,rear wheel drive,134295,Compact,Coupe,430,19,13,2,2016,2,Exotic,259
+Ford,flex-fuel (unleaded/E85),AUTOMATIC,8,rear wheel drive,27630,Midsize,Cargo Van,225,17,13,3,2012,3,Flex-Fuel,5657
+Honda,regular unleaded,AUTOMATIC,6,four wheel drive,35030,Large,Crew Cab Pickup,250,21,15,4,2013,4,Generic,2202
+Volvo,regular unleaded,AUTOMATIC,4,front wheel drive,36800,Midsize,Sedan,240,36,25,4,2017,4,Luxury,870
+Ford,regular unleaded,MANUAL,6,rear wheel drive,20405,Compact,Extended Cab Pickup,207,21,15,2,2009,2,Generic,5657
+Infiniti,premium unleaded (required),AUTOMATIC,6,rear wheel drive,45850,Midsize,4dr SUV,325,24,17,4,2016,4,Crossover,190
+FIAT,premium unleaded (recommended),AUTOMATIC,4,front wheel drive,24795,Compact,Wagon,160,30,22,4,2016,4,Generic,819
+Nissan,regular unleaded,AUTOMATIC,6,front wheel drive,32800,Midsize,4dr SUV,260,28,21,4,2017,4,Crossover,2009
+Toyota,regular unleaded,MANUAL,6,rear wheel drive,2311,Compact,Extended Cab Pickup,150,22,16,2,1995,2,Generic,2031
+Dodge,flex-fuel (unleaded/E85),AUTOMATIC,6,front wheel drive,30995,Midsize,Passenger Minivan,283,25,17,4,2015,4,Flex-Fuel,1851
+Audi,regular unleaded,MANUAL,4,front wheel drive,2000,Compact,Sedan,108,28,19,4,1990,4,Luxury,3105
+Chevrolet,flex-fuel (unleaded/E85),AUTOMATIC,8,four wheel drive,39350,Large,Crew Cab Pickup,320,21,15,4,2011,4,Crossover,1385
+Honda,regular unleaded,AUTOMATIC,4,front wheel drive,22800,Compact,4dr Hatchback,174,40,31,4,2017,4,"Hatchback,Performance",2202
+Dodge,regular unleaded,MANUAL,4,rear wheel drive,2000,Compact,Regular Cab Pickup,116,22,17,2,1992,2,Generic,1851
+Chrysler,regular unleaded,AUTOMATIC,6,front wheel drive,2000,Large,Sedan,150,23,16,4,1992,4,Generic,1013
+Dodge,flex-fuel (unleaded/E85),AUTOMATIC,8,rear wheel drive,28865,Large,Crew Cab Pickup,310,19,14,4,2010,4,Flex-Fuel,1851
+Maserati,premium unleaded (required),AUTOMATIC,8,rear wheel drive,161070,Midsize,Convertible,454,20,13,2,2015,2,Exotic,238
+Toyota,regular unleaded,AUTOMATIC,8,four wheel drive,33070,Large,Extended Cab Pickup,310,18,14,4,2017,4,Generic,2031
+Lincoln,regular unleaded,AUTOMATIC,6,four wheel drive,66770,Large,4dr SUV,380,20,15,4,2017,4,Luxury,61
+BMW,premium unleaded (required),AUTOMATIC,4,rear wheel drive,32850,Compact,Coupe,240,35,23,2,2016,2,"Luxury,Performance",3916
+Honda,regular unleaded,MANUAL,4,front wheel drive,21265,Compact,4dr SUV,141,34,25,4,2016,4,Crossover,2202
+Honda,regular unleaded,AUTOMATIC,4,front wheel drive,28820,Midsize,Sedan,185,36,27,4,2017,4,Generic,2202
+Dodge,regular unleaded,AUTOMATIC,4,front wheel drive,24895,Midsize,4dr SUV,173,25,19,4,2017,4,Crossover,1851
+Volvo,regular unleaded,AUTOMATIC,6,all wheel drive,46950,Midsize,4dr SUV,325,23,17,4,2016,4,Crossover,870
+Subaru,regular unleaded,MANUAL,4,all wheel drive,22195,Midsize,4dr SUV,170,29,22,4,2015,4,Crossover,640
+Subaru,regular unleaded,AUTOMATIC,4,all wheel drive,27145,Midsize,Sedan,175,36,26,4,2016,4,Generic,640
+Chevrolet,regular unleaded,AUTOMATIC,8,four wheel drive,27250,Large,Extended Cab Pickup,285,18,14,4,2007,4,Flex-Fuel,1385
+Chevrolet,regular unleaded,AUTOMATIC,6,four wheel drive,28130,Large,4dr SUV,291,19,14,4,2006,4,Generic,1385
+Volkswagen,premium unleaded (recommended),AUTOMATED_MANUAL,4,front wheel drive,25045,Midsize,Sedan,200,32,24,4,2013,4,Performance,873
+Volkswagen,premium unleaded (recommended),AUTOMATIC,6,all wheel drive,51450,Midsize,4dr SUV,280,23,17,4,2016,4,Crossover,873
+Chevrolet,regular unleaded,AUTOMATIC,6,four wheel drive,33195,Compact,Crew Cab Pickup,305,24,17,4,2016,4,Diesel,1385
+Volkswagen,premium unleaded (recommended),MANUAL,4,front wheel drive,27295,Compact,4dr Hatchback,200,31,21,4,2013,4,"Hatchback,Performance",873
+GMC,flex-fuel (unleaded/E85),AUTOMATIC,6,rear wheel drive,30695,Large,Extended Cab Pickup,285,24,18,4,2015,4,Flex-Fuel,549
+Chevrolet,regular unleaded,MANUAL,6,rear wheel drive,2713,Large,Extended Cab Pickup,200,20,15,2,1997,2,Generic,1385
+Ford,premium unleaded (recommended),MANUAL,8,rear wheel drive,54295,Midsize,Coupe,526,21,14,2,2017,2,Factory Tuner,5657
+Nissan,regular unleaded,AUTOMATIC,4,front wheel drive,13680,Compact,Sedan,109,35,26,4,2017,4,Generic,2009
+Infiniti,premium unleaded (required),AUTOMATIC,8,all wheel drive,59000,Midsize,4dr SUV,390,20,14,4,2010,4,Crossover,190
+Volkswagen,premium unleaded (recommended),AUTOMATIC,6,all wheel drive,51450,Midsize,4dr SUV,280,23,17,4,2016,4,Crossover,873
+Cadillac,regular unleaded,AUTOMATIC,8,rear wheel drive,80655,Compact,Convertible,320,24,15,2,2007,2,Luxury,1624
+Toyota,regular unleaded,MANUAL,4,front wheel drive,10775,Compact,Sedan,108,38,30,4,2003,4,Generic,2031
+Toyota,regular unleaded,AUTOMATIC,4,front wheel drive,20360,Compact,4dr Hatchback,99,46,53,4,2016,4,"Hatchback,Hybrid",2031
+Infiniti,premium unleaded (required),AUTOMATIC,8,rear wheel drive,59200,Large,Sedan,420,24,16,4,2012,4,"Luxury,Performance",190
+Nissan,regular unleaded,MANUAL,6,rear wheel drive,2553,Compact,Coupe,222,22,16,2,1994,2,Performance,2009
+Ford,regular unleaded,MANUAL,6,rear wheel drive,2000,Compact,2dr SUV,140,20,16,2,1990,2,Generic,5657
+Chevrolet,flex-fuel (unleaded/E85),AUTOMATIC,8,four wheel drive,50215,Large,4dr SUV,355,22,16,4,2017,4,Flex-Fuel,1385
+Mazda,premium unleaded (recommended),MANUAL,4,rear wheel drive,26905,Compact,Convertible,167,28,21,2,2014,2,Performance,586
+Chevrolet,regular unleaded,AUTOMATIC,6,front wheel drive,22280,Midsize,Coupe,180,29,19,2,2005,2,Generic,1385
+Ford,flex-fuel (unleaded/E85),AUTOMATIC,6,rear wheel drive,30090,Large,Extended Cab Pickup,282,25,18,4,2015,4,Flex-Fuel,5657
+Cadillac,flex-fuel (unleaded/E85),AUTOMATIC,6,all wheel drive,46660,Compact,Sedan,321,26,18,4,2015,4,Flex-Fuel,1624
+Volkswagen,regular unleaded,AUTOMATIC,5,front wheel drive,20990,Compact,2dr Hatchback,150,29,20,2,2008,2,Hatchback,873
+Chevrolet,flex-fuel (unleaded/E85),AUTOMATIC,8,rear wheel drive,24515,Large,Extended Cab Pickup,295,19,14,4,2007,4,Flex-Fuel,1385
+Chevrolet,regular unleaded,MANUAL,4,front wheel drive,15730,Compact,Sedan,140,30,22,4,2003,4,Generic,1385
+Acura,premium unleaded (required),AUTOMATIC,6,all wheel drive,46020,Midsize,4dr Hatchback,300,23,16,4,2011,4,Crossover,204
+Volvo,regular unleaded,AUTOMATIC,5,front wheel drive,2000,Midsize,Sedan,240,24,17,4,1997,4,Factory Tuner,870
+Ford,regular unleaded,MANUAL,8,four wheel drive,3471,Large,Extended Cab Pickup,220,16,13,3,1998,3,Generic,5657
+Kia,regular unleaded,AUTOMATIC,4,front wheel drive,17895,Compact,Wagon,162,26,19,4,2007,4,Generic,1720
+Volvo,regular unleaded,AUTOMATIC,6,front wheel drive,39700,Midsize,4dr SUV,240,25,16,4,2014,4,Crossover,870
+Mercedes-Benz,premium unleaded (required),AUTOMATIC,6,all wheel drive,65200,Large,4dr SUV,362,21,17,4,2015,4,Crossover,617
+Kia,regular unleaded,AUTOMATIC,4,front wheel drive,20755,Compact,Sedan,138,37,27,4,2016,4,Generic,1720
+BMW,premium unleaded (required),AUTOMATIC,6,all wheel drive,80600,Midsize,Coupe,315,28,19,2,2017,2,"Luxury,Performance",3916
+Suzuki,regular unleaded,AUTOMATIC,6,four wheel drive,24499,Midsize,4dr SUV,185,20,15,4,2004,4,Generic,481
+Mazda,regular unleaded,MANUAL,4,front wheel drive,24195,Midsize,Sedan,184,34,24,4,2017,4,Generic,586
+GMC,flex-fuel (unleaded/E85),AUTOMATIC,4,rear wheel drive,16220,Compact,Regular Cab Pickup,120,23,17,2,2003,2,Flex-Fuel,549
+Mazda,regular unleaded,AUTOMATIC,4,all wheel drive,23210,Compact,4dr SUV,146,32,27,4,2017,4,Crossover,586
+Buick,premium unleaded (recommended),AUTOMATIC,8,front wheel drive,44460,Large,Sedan,292,23,15,4,2011,4,Performance,155
+Toyota,regular unleaded,AUTOMATIC,6,all wheel drive,42880,Large,Passenger Minivan,266,23,16,4,2015,4,Generic,2031
+Infiniti,premium unleaded (recommended),AUTOMATIC,6,rear wheel drive,43650,Midsize,Sedan,328,29,20,4,2015,4,"Luxury,High-Performance",190
+Mazda,premium unleaded (required),MANUAL,,rear wheel drive,26645,Compact,Coupe,232,22,16,4,2010,4,Performance,586
+Chevrolet,regular unleaded,AUTOMATIC,8,four wheel drive,43950,Large,Crew Cab Pickup,355,22,16,4,2017,4,Flex-Fuel,1385
+Porsche,premium unleaded (required),AUTOMATED_MANUAL,6,all wheel drive,163000,Compact,Convertible,520,24,17,2,2016,2,"Luxury,High-Performance",1715

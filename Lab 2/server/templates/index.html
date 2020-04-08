@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+
+<!--
+Name : index.html
+Details : The main html file containing markup
+Author : virajk
+-->
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>
+        Lab 2
+    </title>
+    
+    <script src="static/js/d3/d3.js" ></script>
+    
+<script src="static/js/jquery-3.4.1.min.js" ></script>      
+<link rel="stylesheet" href="static/js/bootstrap-4.4.1-dist/css/bootstrap.min.css" >
+    
+<link rel="stylesheet" href="static/styles/style.css" >
+    
+<script src="static/js/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js" ></script>
+    
+<script src="static/js/d3-simple-slider.min.js"></script> 
+    
+<script src="static/js/palette.js"></script>       
+<script src="static/js/jquery.blockUI.js"></script> 
+
+     
+    
+</head>
+
+
+<body>
+    <div id="header">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top"> <!-- Navigation bar -->
+        <a class='navbar-brand' href="javascript::void(0)">Visualization Lab </a>
+            <div class="" >
+                <ul class="navbar-nav mr-auto">
+                    <li value="dataset" class="nav-item"><a class="nav-link">Data-Set</a></li>
+                    <li value="plots" class="nav-item"   ><a class="nav-link" id="default_click">Plots</a></li>
+                    <li  value="assignment_details" class="nav-item"><a class="nav-link">Assignment Details</a></li>
+                    <li value="sources" class="nav-item"><a class="nav-link">Sources/References</a></li>
+                    <li value="about" class="nav-item"><a class="nav-link">About</a></li>
+                </ul>    
+            </div>
+        </nav>
+    </div>
+    
+    <div id="body" class="wrapper">
+        <nav id="sidemenu">             <!- Click the menu here to view content -->
+            <a class="sidelink task1">Task 1</a>
+            <a class="sidelink task2">Task 2</a>
+            <a class="sidelink task3">Task 3</a>
+            
+            
+        </nav>
+        <div id="maincontent" >          <!- Main content that loads goes here -->
+            <div  class="no-face" id="plots"  >
+                <div class="sub_plots" id="plot_1" >
+                </div>
+                <div class="sub_plots" id="plot_2" >
+                <div class="task2_variables_container">
+                    <div class="dropdown" class="variable_select">
+                        <button type="button" class=" plot_button btn btn-primary dropdown-toggle plot_button" data-toggle="dropdown">
+                        Select DataSet
+                        </button>
+
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item variable" href="JavaScript:Void(0)">Complete Data</a>
+                            <a class="dropdown-item variable" href="JavaScript:Void(0)" >Randomized Data</a>
+                            <a class="dropdown-item variable" href="JavaScript:Void(0)" >Stratified Data</a>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="task2_variables_container">
+
+                    <div id="show_data">
+                        <button type="button" class="btn btn-primary">Show Scree Plot</button>
+                    </div>
+
+                    <div id="significance">
+                        <button type="button" class="btn btn-primary">Show attribute significance</button>
+                    </div>
+
+                </div>
+
+
+
+            </div>
+            <div class="sub_plots" id="plot_3">
+                
+                <div class="task3_variables_container">
+                    <button type="button" class="btn btn-primary task3_task">Top two PCA vectors</button>
+                    <button type="button" class="btn btn-primary task3_task">Visualize MDS Distance</button>
+                    <button type="button" class="btn btn-primary task3_task">Scatterplot of 3 highest PCA</button>
+                </div>
+
+                <div class="task3_variables_container">
+                    <div class="dropdown variable_select dataset-dropdown" >
+                        <button type="button" class=" plot_button btn btn-primary dropdown-toggle plot_button" data-toggle="dropdown">
+                        Select DataSet
+                        </button>
+
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item variable" href="JavaScript:Void(0)">Complete Data</a>
+                            <a class="dropdown-item variable" href="JavaScript:Void(0)" >Randomized Data</a>
+                            <a class="dropdown-item variable" href="JavaScript:Void(0)" >Stratified Data</a>
+                        </div>
+                        
+                    </div> 
+                    
+                    <div class="dropdown variable_select distance_metric_dropdown" >
+                        <button type="button" class=" plot_button btn btn-primary dropdown-toggle plot_button" data-toggle="dropdown">
+                        Select Distance Metric
+                        </button>
+
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item variable" href="JavaScript:Void(0)">Euclidean</a>
+                            <a class="dropdown-item variable" href="JavaScript:Void(0)" >Correlation</a>
+                        </div>
+                        
+                    </div>
+            </div>               
+
+            </div>
+
+            <!--svg width="600" height="500" id="svg_container"></svg-->
+            <div class='plot_container' >
+                <svg></svg>
+            </div>
+        </div>
+        <div class="no-face" id="assignment_details" style="margin-top:6%">
+            <h3>Practice the three basic tasks of visual data analytics</h3>
+            <ul>
+            <li>Use data from mini project #1 (or other), begin with |N|≥500, |D|≥10)</li>
+            <li>Client-server system: python for processing (server), D3 for VIS (client)</li>
+            </ul>
+            
+            <h3>Task 1: data clustering and decimation (30 points)</h3>
+            <ul>
+            <li>Implement random sampling and stratified sampling (remove 50-75% of data)</li>
+            <li>The latter includes the need for k-means clustering (optimize k using elbow)</li>
+            </ul>
+            
+            <h3>Task 2: dimension reduction on both org and 2 types of reduced data (30 points)</h3>
+            <ul>
+            <li>Find the intrinsic dimensionality of the data using PCA</li>
+            <li>Produce scree plot visualization and mark the intrinsic dimensionality</li>
+            <li>Show the scree plots before/after sampling to assess the bias introduced obtain the three attributes with highest PCA loadings</li>
+            </ul>
+            <h3>Task 3: visualization of both original and 2 types of reduced data (40 points)</h3>
+            <ul>
+            <li>Visualize the data projected into the top two PCA vectors via 2D scatterplot</li>
+            <li>Visualize the data via MDS (Euclidian & correlation distance) in 2D scatterplots</li>
+            <li>Visualize the scatterplot matrix of the three highest PCA loaded attributes</li>
+            </ul>
+  
+        
+        </div>
+        <div class="no-face" id="dataset" style="margin-top:6%">
+            <div class="paragraph">
+            <h3>This is a dataset of cars picked from Kaggle.</h3> <br/>
+            The following are the links to the dataset: <br/><br/>
+            <ul>
+                <li>https://www.kaggle.com/CooperUnion/cardataset</li>
+                <li>https://www.kaggle.com/toramky/automobile-dataset</li>
+                <li>https://www.kaggle.com/ljanjughazyan/cars1</li>
+            </ul>
+            <br/>
+            The dataset was cleaned using python. Some values which where empty were replaced with 0, in other cases the row was removed alltogether. No specific python module was used for cleaning the data.
+            </div>
+        </div>
+        <div class="no-face" id="sources" style="margin-top:6%">
+        <h3>Sources/References</h3> 
+            <ul>
+                <li>https://github.com/d3/</li>
+                <li>https://github.com/google/palette.js/tree/master</li>
+                <li>https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/</li>
+                <li>https://www.freecodecamp.org/news/how-to-create-your-first-bar-chart-with-d3-js-a0e8ea2df386/</li>
+                <li>https://observablehq.com/@d3/brushable-scatterplot-matrix</li>
+                <li>https://bl.ocks.org/Fil/6d9de24b31cb870fed2e6178a120b17d</li>
+
+            </ul>
+        </div>
+        <div class="no-face" id="about" >
+        <h3>About:</h3>
+            <ul class="list-group">
+              <li class="list-group-item">Name: Viraj Kamat</li>
+              <li class="list-group-item">SBU ID : 112818603</li>
+            </ul>
+        </div>
+
+    </div>
+    <div id="footer">
+    </div>
+    
+    
+
+</body>
+<script src="static/js/script.js" ></script>   
+</html>   
+
+
